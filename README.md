@@ -1,3 +1,3 @@
 # QrCodeGenerator
 
-Simple Qr-Code generator using node
+Simple Qr-Code generator using node.
